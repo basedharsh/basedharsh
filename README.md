@@ -1,9 +1,16 @@
-### Heyy there! Harsh here 👋
+ <h3 align="center">
+ Heyy there! Harsh here 👋
+</h3>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsrah00&show_icons=true&theme=radical)
 
-- 🌱 I’m currently trying to learn App Dev... 
+
+<h3 align="center">
+🌱 I’m currently trying to learn App Dev... 
+</h3>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -29,7 +36,12 @@
 
 <h2> 📈 &nbsp;My GitHub History!(Will try to improve)</h2>
 
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsrah00&show_icons=true&theme=radical)
+
 ![snake gif](https://github.com/Hsrah00/Hsrah00/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
