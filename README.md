@@ -25,6 +25,8 @@
 
 <h2> 📈 &nbsp;My GitHub History!(Will try to improve)</h2>
 
+![snake gif](https://github.com/Hsrah00/Hsrah00/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <p align="left">
