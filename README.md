@@ -3,5 +3,5 @@
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsrah00&show_icons=true&theme=radical)
 
-- 🌱 I’m currently learning  Web Dev... 
+- 🌱 I’m currently trying to learn App Dev... 
 
