@@ -29,6 +29,11 @@
   <img src= "https://media.giphy.com/media/l0HlRWOxvtUYYAC7m/giphy.gif">
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hsrah00/count.svg" />
+</p>
+
 
 
 
