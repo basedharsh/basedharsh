@@ -44,7 +44,7 @@
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsrah00&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/Hsrah00/basedharsh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/basedharsh/basedharsh/blob/output/github-contribution-grid-snake.svg)
 
 
 
