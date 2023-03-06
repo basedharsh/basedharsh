@@ -31,7 +31,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hsrah00/count.svg" />
+  <img src="https://profile-counter.glitch.me/basedharsh/count.svg" />
 </p>
 
 
@@ -44,7 +44,7 @@
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsrah00&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/Hsrah00/Hsrah00/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Hsrah00/basedharsh/blob/output/github-contribution-grid-snake.svg)
 
 
 
