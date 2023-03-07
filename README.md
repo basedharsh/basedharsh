@@ -42,7 +42,7 @@
 <h2> 📈 &nbsp;My GitHub History!(Will try to improve)</h2>
 
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsrah00&show_icons=true&theme=radical)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=basedharsh&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basedharsh&layout=compact)](https://github.com/basedharsh)
 
 ![Snake animation](https://github.com/basedharsh/basedharsh/blob/output/github-contribution-grid-snake.svg)
