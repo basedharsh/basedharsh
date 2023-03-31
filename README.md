@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
- Heyy there! harsh  here 👋
+ Heyy there! Harsh  here 👋
 </h3>
 
 <p align="center">
