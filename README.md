@@ -21,7 +21,7 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-<img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+<!-- <img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/harsh-pandey-115a1b222/">
