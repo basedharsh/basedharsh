@@ -41,6 +41,8 @@
   <img src="https://profile-counter.glitch.me/basedharsh/count.svg" />
 </p>
 
+<!-- Tech Stack -->
+
 <div align="center">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> Tech Stack</h2>
 
@@ -50,10 +52,15 @@
   ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
   ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+  ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+  ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B)
+  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+  ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+  ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 </div>
-
 
 
 
