@@ -41,6 +41,19 @@
   <img src="https://profile-counter.glitch.me/basedharsh/count.svg" />
 </p>
 
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> Tech Stack</h2>
+
+  ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+  ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+  ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+  ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+  ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+</div>
+
 
 
 
