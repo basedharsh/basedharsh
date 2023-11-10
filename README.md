@@ -70,13 +70,13 @@
 
 
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
 
 
 
-<h3 align="center">
-GitHub Analytics
-</h3>
+
+
+<h2 align="center"> 📈 &nbsp;My GitHub History!</h2>
+
 
 <br>
 
