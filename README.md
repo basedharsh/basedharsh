@@ -72,16 +72,29 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-<p align="left" border="1px solid black"><img alt="Preeti Raj Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=basedharsh&langs_count=8&count_private=false&layout=compact&line_height=20&hide_border=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" width="30%"  /><img  src="https://github-readme-stats.vercel.app/api?username=basedharsh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="" width="50%" />
-</p>
+
+
+<h3 align="center">
+GitHub Analytics
+</h3>
+
+<br>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basedharsh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=basedharsh&layout=compact&langs_count=8&theme=algolia"/>
+<br>
+<br>
+
+</div>
 
 
 <!-- ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=basedharsh&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basedharsh&layout=compact)](https://github.com/basedharsh) -->
-
-<img src="https://streak-stats.demolab.com?user=basedharsh&theme=tokyonight&hide_border=true&border_radius=4.7" alt="harsh" width="80%"   />
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basedharsh&theme=2077" alt="harsh" width="80%"   />
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=basedharsh&theme=tokyonight&hide_border=true&border_radius=4.7" alt="harsh" width="50%"   />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basedharsh&theme=2077" alt="harsh" width="50%"   />
+</div>
 
 
 
@@ -93,7 +106,7 @@
 
 
 
-
+<!-- 
 <img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 
 ![Snake animation](https://github.com/basedharsh/basedharsh/blob/output/github-contribution-grid-snake.svg)
@@ -101,7 +114,7 @@
 
 
 
-<!-- 
+
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p> -->
