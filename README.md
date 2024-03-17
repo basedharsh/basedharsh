@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
- Heyy there! Harsh here 👋
+ Hey there! Harsh here 👋
 </h3>
 
 <p align="center">
@@ -40,7 +40,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/basedharsh/count.svg" />
 </p>
-
+<h3 align="center">
+  🌐 Check out my website at <a href="https://basedharsh.com">basedharsh.com</a>
+</h3>
 <!-- Tech Stack -->
 
 <div align="center">
