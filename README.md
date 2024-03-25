@@ -40,9 +40,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/basedharsh/count.svg" />
 </p>
-<h3 align="center">
-  🌐 Check out my website at <a href="https://basedharsh.com">basedharsh.com</a>
-</h3>
+
 <!-- Tech Stack -->
 
 <div align="center">
