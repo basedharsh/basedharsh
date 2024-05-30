@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
- Hey there! Harsh here 🦁
+ Hey there! Harsh here🦁
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-🌱 I’m currently trying to learn App Dev... 
+🌱 I’m currently trying to learn App Dev....
 </h3>
 
 <h1 align="center">
