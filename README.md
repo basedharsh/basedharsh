@@ -101,8 +101,18 @@
 <img src="https://streak-stats.demolab.com?user=basedharsh&theme=dark&hide_border=false" alt="harsh" width="50%"   />
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basedharsh&theme=dark&hide_border=false" alt="harsh" width="50%"   />
 </div>
+<br>
+<div align="center">
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=basedharsh&theme=matrix&no-frame=false&no-bg=true&margin-w=4) -->
 
-
+ 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+<!-- ### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div> -->
 
 <!-- <p align="center">
  <img src="https://metrics.lecoq.io/basedharsh" alt="harshu"/>  
