@@ -73,8 +73,10 @@
 
 
 
-
-
+<h1 align = "center">🏆 GitHub Trophies 🏆</h1>
+ <div align = "center">
+  <img src="https://github-profile-trophy.vercel.app/?username=basedharsh&theme=matrix&no-frame=false&no-bg=true&margin-w=4" width="90%"   />
+</div>
 
 
 
