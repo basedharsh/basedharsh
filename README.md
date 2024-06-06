@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-🦁 Lowkey App Dev....
+🦁 Lowkey Dev coping with life....
 </h3>
 
 <h1 align="center">
