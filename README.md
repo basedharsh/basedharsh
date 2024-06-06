@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-🌱 I’m currently trying to learn App Development....
+🦁 Lowkey App Dev....
 </h3>
 
 <h1 align="center">
