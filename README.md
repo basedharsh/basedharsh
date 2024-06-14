@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-🦁 Lowkey Dev coping with life....
+🦁 Lowkey Dev Coping with Life....
 </h3>
 
 <h1 align="center">
