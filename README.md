@@ -100,7 +100,7 @@
 <!-- ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=basedharsh&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basedharsh&layout=compact)](https://github.com/basedharsh) -->
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=basedharsh&theme=dark&hide_border=false" alt="harsh" width="50%"   />
+<img src="https://streak-stats.demolab.com/?user=basedharsh&theme=dark&hide_border=false" alt="harsh" width="51%"   />
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basedharsh&theme=dark&hide_border=false" alt="harsh" width="50%"   />
 </div>
 <br>
